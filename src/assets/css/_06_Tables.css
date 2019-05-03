@@ -1,0 +1,16 @@
+.table thead th:hover{
+    background: url('data:image/gif;base64,R0lGODlhAQAXAJEAAPn5+evz/dno+wAAACH5BAAAAAAALAAAAAABABcAAAIGRI4oy80FADs=');
+    background-size: 1px 100%;
+    border-color: rgba(0,0,128,0.125); 
+}
+
+.table thead th{
+    background: url('data:image/gif;base64,R0lGODlhAQAXAJEAAPn5+fT09Orq6gAAACH5BAAAAAAALAAAAAABABcAAAIGRI4oy80FADs=');
+    background-size: 1px 100%; 
+    border-right: 1px solid #dedede; 
+    border-color: rgba(0,0,0,0.125); 
+}
+
+.table-sm td, .table-sm th,.table td, .table th {
+    padding: 0px; 
+}

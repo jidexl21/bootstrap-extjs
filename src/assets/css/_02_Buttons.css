@@ -1,0 +1,15 @@
+.btn{
+    min-width: 75px;
+    font-size:13px;
+    padding: 0px 10px;
+    font-family:helvetica,tahoma,verdana,sans-serif;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAASCAYAAACaV7S8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAD9JREFUeNo0jNsNACAIA2sT4/juyQq8RIw/l6NtQGZuFkBggBoBunqhzcu0zza337bdzKx2IgKuNe8XPBwBBgCD/CoQh81OqgAAAABJRU5ErkJggg==');
+    background-size:1px 100%;
+}
+.btn.btn-link{
+    background-image: none; 
+    max-width:0px; 
+}
+.btn:active{
+    background-image: none;
+}

@@ -1,0 +1,57 @@
+
+ul.nav.nav-tabs.card-header-tabs {
+    font-family:helvetica,tahoma,verdana,sans-serif;
+    font-size: 13px;
+    line-height: 16px;
+    background: rgba(204,219,239,1);
+    background: -moz-linear-gradient(top, rgba(204,219,239,1) 0%, rgba(203,218,239,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(204,219,239,1)), color-stop(100%, rgba(203,218,239,1)));
+    background: -webkit-linear-gradient(top, rgba(204,219,239,1) 0%, rgba(203,218,239,1) 100%);
+    background: -o-linear-gradient(top, rgba(204,219,239,1) 0%, rgba(203,218,239,1) 100%);
+    background: -ms-linear-gradient(top, rgba(204,219,239,1) 0%, rgba(203,218,239,1) 100%);
+    background: linear-gradient(to bottom, rgba(204,219,239,1) 0%, rgba(203,218,239,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ccdbef', endColorstr='#cbdaef', GradientType=0 );
+}
+.card-header-tabs.nav-tabs .nav-item.show .nav-link, 
+.card-header-tabs.nav-tabs .nav-link {
+    padding:5px; 
+    border-color:#8db2e3; 
+    margin:2px 1px -2px 1px; 
+    padding:4px 10px; 
+    font-weight: lighter; 
+    font-stretch: expanded;    
+    color: #15428b;
+    
+    
+background: rgba(255,255,255,1);
+background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(204,222,246,0.98) 5%, rgba(197,218,250,0.64) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(5%, rgba(204,222,246,0.98)), color-stop(100%, rgba(197,218,250,0.64)));
+background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(204,222,246,0.98) 5%, rgba(197,218,250,0.64) 100%);
+background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(204,222,246,0.98) 5%, rgba(197,218,250,0.64) 100%);
+background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(204,222,246,0.98) 5%, rgba(197,218,250,0.64) 100%);
+background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(204,222,246,0.98) 5%, rgba(197,218,250,0.64) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#c5dafa', GradientType=0 );
+
+}
+
+.card-header-tabs.nav-tabs .nav-item.show .nav-link, 
+.card-header-tabs.nav-tabs .nav-link.active {
+    font-weight: bold;
+    background-color: #dfe8f6;
+    border-bottom-color:#dfe8f6;
+    background: rgba(255,255,255,1);
+    background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(223,232,246,1) 40%, rgba(223,232,246,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(40%, rgba(223,232,246,1)), color-stop(100%, rgba(223,232,246,1)));
+    background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(223,232,246,1) 40%, rgba(223,232,246,1) 100%);
+    background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(223,232,246,1) 40%, rgba(223,232,246,1) 100%);
+    background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(223,232,246,1) 40%, rgba(223,232,246,1) 100%);
+    background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(223,232,246,1) 40%, rgba(223,232,246,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#dfe8f6', GradientType=0 );
+
+}
+.card-header-tabs.nav-tabs .nav-link.disabled{
+    color: rgba(0, 0, 0, 0.2);
+}
+ul.nav-tabs.card-header-tabs {
+	margin:0px; 
+}

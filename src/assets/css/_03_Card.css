@@ -1,0 +1,25 @@
+.card-header {
+    border-bottom-color: rgba(0, 0, 255, 0.25);
+	padding: 0px;
+	margin-bottom: 0;
+	background-image: url("data:image/gif;base64,R0lGODlhAQAVAMQAALzS79Ti9Njm9rrQ7s3e88/f88LW8MTY8b/U8NXk9cbZ8fP3+9Dg9MHV8Nfl9avH7L3T79Lh9LjP7trn9gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAABABUAAAUS4DJNgpMEEVMQjzQAENIYhxICADs=");
+    background-size: 1px 100%;
+    color: #15428b;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: bold;
+    border-left:1px solid #fff;
+    border-right:1px solid rgb(126, 121, 121);
+    border-left-color: rgba(255, 255, 255, 0.35); 
+    border-right-color: rgba(255, 255, 255, 0.35)
+}
+.card-footer{
+    padding: 0px; 
+    background-color: #dfe8f6;
+    border-bottom: inset; 
+    border-color:rgba(198,214,232,0.2);
+}
+.card-body{
+    padding: 5px;
+    background-color: #DFE8F6;
+}

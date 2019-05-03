@@ -1,0 +1,13 @@
+.form-control{
+    border-radius: 0; 
+    padding: 2px; 
+    font-family: helvetica, tahoma, verdana, sans-serif;
+    height: auto; 
+    font-size: 12px; 
+}
+label{
+    margin-bottom: 0px;
+}
+.form-group{
+    margin-bottom: 2px;
+}
