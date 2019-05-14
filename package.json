@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-ext",
+  "name": "bootstrap-extjs",
   "version": "1.0.0",
   "description": "Styles to Convert Bootstrap Items to Ext-like Items",
   "main": "index.js",
